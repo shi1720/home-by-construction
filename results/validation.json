@@ -1,0 +1,115 @@
+{
+  "independent_anchor_agreement": 3051,
+  "exhaustive_cost_cases": 384,
+  "exhaustive_knapsack_instances": 200,
+  "milp_checks": [
+    {
+      "country": "BE",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 371,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "BE",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 166,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "DE",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 362,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "DE",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 146,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "ES",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 394,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "ES",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 150,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "NL",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 364,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "NL",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 145,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "PT",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 363,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "PT",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 110,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "US",
+      "direction": "increase",
+      "budget": 306,
+      "optimum": 392,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "country": "US",
+      "direction": "decrease",
+      "budget": 306,
+      "optimum": 161,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "higher": "PT",
+      "lower": "BE",
+      "minimum_cost": 14,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "higher": "US",
+      "lower": "ES",
+      "minimum_cost": 23,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "higher": "NL",
+      "lower": "PT",
+      "minimum_cost": 62,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    },
+    {
+      "higher": "NL",
+      "lower": "ES",
+      "minimum_cost": 352,
+      "milp_status": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+    }
+  ]
+}

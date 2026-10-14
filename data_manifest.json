@@ -1,0 +1,62 @@
+[
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:BE/Month:2026-09.csv",
+    "file": "BE_2026-09.csv",
+    "bytes": 10160318,
+    "sha256": "9f02e251b105f736255bff026c6cb0941b46b3f1020e8d01dfbb9e4abce14b40"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:BE/Month:2026-10.csv",
+    "file": "BE_2026-10.csv",
+    "bytes": 10461009,
+    "sha256": "b497e125bc5a25cd8010e190ad146e8f5d3e810af27c7d888d30c900dbc7dc16"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:DE/Month:2026-10.csv",
+    "file": "DE_2026-10.csv",
+    "bytes": 7673454,
+    "sha256": "6f80d65bbc477b474bfa671d1d60d5601dfbd75a668ca3ac4d570a41a4678d8c"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:ES/Month:2026-09.csv",
+    "file": "ES_2026-09.csv",
+    "bytes": 9053095,
+    "sha256": "9b5ac3a3749c25ce3b51e8bd31aa8aaeb3fdbb7c2f89462ae788fb6751b09837"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:ES/Month:2026-10.csv",
+    "file": "ES_2026-10.csv",
+    "bytes": 9284692,
+    "sha256": "9b6c987f9b36798eeca1f632a3488da75555453e3382129e749abc66a17a0544"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:NL/Month:2026-09.csv",
+    "file": "NL_2026-09.csv",
+    "bytes": 3937392,
+    "sha256": "4d496e7a473d0e81221e06665c642b8e3be673afd7e0359e9112de2ee689aaa4"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:NL/Month:2026-10.csv",
+    "file": "NL_2026-10.csv",
+    "bytes": 4082975,
+    "sha256": "7e16afc81c43da135e7e18bc9519346528c9059044de5324f89dabb7ee6a3271"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:PT/Month:2026-09.csv",
+    "file": "PT_2026-09.csv",
+    "bytes": 2679327,
+    "sha256": "2f923b6c5cf3cea58bcbbad6c877c35bd40c6a56692316d8f7bf6e6cfdcc1dec"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:PT/Month:2026-10.csv",
+    "file": "PT_2026-10.csv",
+    "bytes": 2853257,
+    "sha256": "a2d70a99290db06d7ff7233a01f5eac2819b5fa3cae09b6a9038a9334bbc03af"
+  },
+  {
+    "url": "https://streetartcities.com/data/open-data/Country:US/Month:2026-10.csv",
+    "file": "US_2026-10.csv",
+    "bytes": 7338030,
+    "sha256": "abc61d00982758d7d9e64802ce5e5c0fd288d7e49809484745451ce8dcc62aed"
+  }
+]

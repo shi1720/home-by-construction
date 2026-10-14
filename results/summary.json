@@ -1,0 +1,143 @@
+{
+  "raw_records": 48690,
+  "primary": {
+    "records": 42730,
+    "artists": 12373,
+    "assigned_artists": 3051,
+    "cohort_records": 30696,
+    "domestic_records": 28893,
+    "multi_country_assigned": 653
+  },
+  "data_checks": {
+    "duplicate_ids": 0,
+    "missing_hunter_primary": 8
+  },
+  "collector": {
+    "artists": 3051,
+    "any_flip": 45,
+    "any_abstain": 1988,
+    "stable_all": 1035,
+    "largest_state": {
+      "2": 1948,
+      "0": 1065,
+      "1": 38
+    },
+    "random_mean": [
+      1118.215,
+      8.515,
+      1924.27
+    ],
+    "random_q025": [
+      1109.975,
+      3.0,
+      1917.0
+    ],
+    "random_q975": [
+      1128.0,
+      14.0,
+      1931.025
+    ],
+    "n10": {
+      "artists": 841,
+      "any_flip": 23,
+      "any_abstain": 206,
+      "stable_all": 618,
+      "largest_state": {
+        "0": 629,
+        "2": 194,
+        "1": 18
+      }
+    },
+    "multi_hunter_n10": {
+      "artists": 748,
+      "any_flip": 23,
+      "any_abstain": 113,
+      "stable_all": 618,
+      "largest_state": {
+        "0": 629,
+        "2": 101,
+        "1": 18
+      }
+    },
+    "multi_country": {
+      "artists": 653,
+      "any_flip": 45,
+      "any_abstain": 289,
+      "stable_all": 336,
+      "largest_state": {
+        "0": 366,
+        "2": 249,
+        "1": 38
+      }
+    }
+  },
+  "nationality": {
+    "tagged_records": 4368,
+    "nonempty_records": 4404,
+    "consistent_artists": 1698,
+    "conflicting_artists": 19,
+    "ambiguous_artists": 26,
+    "assigned_comparable_artists": 933,
+    "mismatching_artists": 196,
+    "mismatches_outside_panel": 172,
+    "comparable_records": 12206,
+    "foreign_anchor_records": 1208,
+    "foreign_tag_records": 2473,
+    "same_record_comparison": {
+      "records": 3461,
+      "foreign_anchor": 359,
+      "foreign_tag": 715
+    }
+  },
+  "temporal": {
+    "old_raw": 27250,
+    "new_raw": 27902,
+    "new_marker_ids": 663,
+    "removed_marker_ids": 11,
+    "old_assigned_artists": 1722,
+    "label_changes": 0,
+    "label_abstentions": 7,
+    "unchanged_cohort_records": 18078,
+    "records_changed_anchor": 0,
+    "records_changed_domestic_status_resolved": 0,
+    "records_unresolved": 14,
+    "new_single_markers": 603,
+    "new_single_with_valid_creation_date": 221,
+    "new_single_created_before_september": 149
+  },
+  "sensitivities": {
+    "active": {
+      "records": 37771,
+      "artists": 11601,
+      "assigned_artists": 2742,
+      "cohort_records": 26533,
+      "domestic_records": 25011,
+      "multi_country_assigned": 568
+    },
+    "strict_majority": {
+      "records": 42730,
+      "artists": 12373,
+      "assigned_artists": 3003,
+      "cohort_records": 30298,
+      "domestic_records": 28694,
+      "multi_country_assigned": 605
+    },
+    "minimum10": {
+      "records": 42730,
+      "artists": 12373,
+      "assigned_artists": 841,
+      "cohort_records": 20300,
+      "domestic_records": 19022,
+      "multi_country_assigned": 295
+    },
+    "all_artist_links": {
+      "records": 55347,
+      "artists": 15795,
+      "assigned_artists": 3918,
+      "cohort_records": 39930,
+      "domestic_records": 37519,
+      "multi_country_assigned": 837
+    },
+    "collaborative_markers_over_four": 353
+  }
+}

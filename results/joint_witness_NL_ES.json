@@ -1,0 +1,698 @@
+{
+  "higher_baseline": "NL",
+  "lower_baseline": "ES",
+  "minimum_budget": 352,
+  "denominators": {
+    "NL": 2713,
+    "ES": 7798
+  },
+  "baseline_foreign_counts": {
+    "NL": 311,
+    "ES": 272
+  },
+  "gain_integer_difference": 1691027,
+  "anonymous_count_profiles": [
+    {
+      "counts": {
+        "BE": 2,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 3,
+        "ES": 9
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 7
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "NL": 7,
+        "US": 10
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "BE": 4,
+        "ES": 1,
+        "NL": 3
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 8,
+        "ES": 29,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 22
+    },
+    {
+      "counts": {
+        "BE": 18,
+        "NL": 11
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 8
+    },
+    {
+      "counts": {
+        "BE": 7,
+        "NL": 3
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 5
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 9,
+        "NL": 5
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 5
+    },
+    {
+      "counts": {
+        "BE": 3,
+        "NL": 2
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 3,
+        "NL": 2
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "DE": 1,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "ES": 2,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "DE": 2,
+        "ES": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 7,
+        "ES": 23,
+        "NL": 1,
+        "PT": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 18
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "DE": 1,
+        "ES": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 10,
+        "NL": 4
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 7
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "ES": 1,
+        "NL": 1
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 4,
+        "ES": 7,
+        "PT": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "NL": 3,
+        "US": 5
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "BE": 2,
+        "ES": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "BE",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 3,
+        "DE": 1,
+        "NL": 2
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "ES": 13,
+        "US": 10
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "ES": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 11,
+        "ES": 23
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 13
+    },
+    {
+      "counts": {
+        "DE": 4,
+        "NL": 3,
+        "US": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 3,
+        "NL": 2
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 3,
+        "ES": 8,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 6
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "ES": 2,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "ES": 7,
+        "US": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 5
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "ES": 4
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "ES": 11,
+        "NL": 1,
+        "US": 6
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 8
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 5,
+        "NL": 3
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "ES": 3,
+        "US": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 6,
+        "ES": 25
+      },
+      "original_anchor": "ES",
+      "target_anchor": "DE",
+      "additions": 20
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "NL": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "ES": 3,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 21,
+        "NL": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 20
+    },
+    {
+      "counts": {
+        "ES": 10,
+        "NL": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 9
+    },
+    {
+      "counts": {
+        "ES": 7,
+        "PT": 6
+      },
+      "original_anchor": "ES",
+      "target_anchor": "PT",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 6,
+        "PT": 1,
+        "US": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "ES": 23,
+        "NL": 3,
+        "US": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 21
+    },
+    {
+      "counts": {
+        "ES": 3,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "ES": 17,
+        "US": 5
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 13
+    },
+    {
+      "counts": {
+        "ES": 5,
+        "NL": 2,
+        "PT": 2,
+        "US": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 6
+    },
+    {
+      "counts": {
+        "ES": 4,
+        "US": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "ES": 3,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "ES": 9,
+        "NL": 2,
+        "US": 4
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 11
+    },
+    {
+      "counts": {
+        "ES": 14,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 14
+    },
+    {
+      "counts": {
+        "ES": 4,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "ES": 6,
+        "NL": 1,
+        "US": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 6
+    },
+    {
+      "counts": {
+        "ES": 2,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 2,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 10,
+        "US": 4
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 7
+    },
+    {
+      "counts": {
+        "ES": 3,
+        "PT": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "PT",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 3,
+        "NL": 1
+      },
+      "original_anchor": "ES",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "NL": 9,
+        "US": 11
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "NL": 1,
+        "PT": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "NL": 1,
+        "US": 2
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 2
+    }
+  ]
+}

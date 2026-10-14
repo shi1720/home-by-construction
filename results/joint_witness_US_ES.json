@@ -1,0 +1,75 @@
+{
+  "higher_baseline": "US",
+  "lower_baseline": "ES",
+  "minimum_budget": 23,
+  "denominators": {
+    "US": 6152,
+    "ES": 7798
+  },
+  "baseline_foreign_counts": {
+    "US": 270,
+    "ES": 272
+  },
+  "gain_integer_difference": 450042,
+  "anonymous_count_profiles": [
+    {
+      "counts": {
+        "BE": 1,
+        "ES": 13,
+        "US": 10
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "DE": 2,
+        "ES": 11,
+        "NL": 1,
+        "US": 6
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 8
+    },
+    {
+      "counts": {
+        "DE": 1,
+        "ES": 3,
+        "US": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 7,
+        "PT": 6
+      },
+      "original_anchor": "ES",
+      "target_anchor": "PT",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 6,
+        "PT": 1,
+        "US": 3
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "ES": 4,
+        "US": 2
+      },
+      "original_anchor": "ES",
+      "target_anchor": "US",
+      "additions": 3
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "higher_baseline": "NL",
+  "lower_baseline": "PT",
+  "minimum_budget": 62,
+  "denominators": {
+    "NL": 2713,
+    "PT": 2725
+  },
+  "baseline_foreign_counts": {
+    "NL": 311,
+    "PT": 215
+  },
+  "gain_integer_difference": 266294,
+  "anonymous_count_profiles": [
+    {
+      "counts": {
+        "BE": 1,
+        "NL": 7,
+        "US": 10
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 4
+    },
+    {
+      "counts": {
+        "BE": 4,
+        "ES": 1,
+        "NL": 3
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "BE": 18,
+        "NL": 11
+      },
+      "original_anchor": "BE",
+      "target_anchor": "NL",
+      "additions": 8
+    },
+    {
+      "counts": {
+        "BE": 1,
+        "PT": 19,
+        "US": 7
+      },
+      "original_anchor": "PT",
+      "target_anchor": "US",
+      "additions": 13
+    },
+    {
+      "counts": {
+        "DE": 4,
+        "NL": 3,
+        "US": 1
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "DE": 3,
+        "NL": 2
+      },
+      "original_anchor": "DE",
+      "target_anchor": "NL",
+      "additions": 2
+    },
+    {
+      "counts": {
+        "ES": 9,
+        "PT": 27
+      },
+      "original_anchor": "PT",
+      "target_anchor": "ES",
+      "additions": 19
+    },
+    {
+      "counts": {
+        "ES": 6,
+        "PT": 11
+      },
+      "original_anchor": "PT",
+      "target_anchor": "ES",
+      "additions": 6
+    },
+    {
+      "counts": {
+        "ES": 4,
+        "PT": 6
+      },
+      "original_anchor": "PT",
+      "target_anchor": "ES",
+      "additions": 3
+    },
+    {
+      "counts": {
+        "NL": 9,
+        "US": 11
+      },
+      "original_anchor": "US",
+      "target_anchor": "NL",
+      "additions": 3
+    }
+  ]
+}
