@@ -8,6 +8,8 @@
   "anonymity_text_check": "passed",
   "seven_unit_tests": "passed",
   "independent_MILP_optimizations": 16,
-  "status": "prepared, not submitted",
-  "pdf_sha256": "b09ea5505ba65e2339f6313649fd7c9ba914f97a743ad4a849b16b6d582135e1"
+  "status": "submitted to ACM FAccT 2027",
+  "pdf_sha256": "b09ea5505ba65e2339f6313649fd7c9ba914f97a743ad4a849b16b6d582135e1",
+  "registered_pdf_hash_match": true,
+  "author_console": "no outstanding author tasks at verification"
 }

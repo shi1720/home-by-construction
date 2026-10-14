@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and software if you use this research."
+title: "Home by Construction: Auditing Coverage-Dependent Origin Labels in Street-Art Data"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+version: 1.0.0
+date-released: 2026-10-14
+repository-code: "https://github.com/shi1720/home-by-construction"
+license: MIT

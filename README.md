@@ -2,7 +2,7 @@
 
 Auditing Coverage-Dependent Origin Labels in Street-Art Data
 
-Research manuscript prepared for ACM FAccT 2027. This is original analysis of a new six-country Street Art Cities panel using a published measurement rule. It is **not** a reproduction of WIPO's historical 37-country estimates. It has not been accepted or peer reviewed. Submission status is recorded separately.
+Research manuscript submitted to ACM FAccT 2027 on 14 October 2026. This is original analysis of a new six-country Street Art Cities panel using a published measurement rule. It is **not** a reproduction of WIPO's historical 37-country estimates. It has not been accepted or peer reviewed. The registered anonymous PDF was downloaded and verified byte-for-byte against the final manuscript. The reviewer interest form recorded a truthful request for an exception because the author has no prior reviewing experience; the request is not an approved exemption.
 
 ## What was actually run
 
@@ -52,6 +52,6 @@ The example is an expressly synthetic small arithmetic case, not an artist obser
 
 ## Interpretation and rights
 
-See `RESEARCH_NOTES.md` for related-work distinctions, prior-paper overlap screening, commercial context, and limitations. The source code is MIT licensed. The manuscript is © 2026 Shivam Gupta; redistribution rights to the source dataset, imagery, and profiles are not conveyed. The source site's academic-use and non-academic integration restrictions apply. No artist/hunter identities, coordinates, addresses, images, or raw data are redistributed.
+See `RESEARCH_NOTES.md` for related-work distinctions, prior-paper overlap screening, commercial context, and limitations. The source code is MIT licensed. The manuscript is © 2026 Shivam Gupta and licensed CC BY 4.0 under the approved submission terms; redistribution rights to the source dataset, imagery, and profiles are not conveyed. The source site's academic-use and non-academic integration restrictions apply. No artist/hunter identities, coordinates, addresses, images, or raw data are redistributed.
 
 The anonymous manuscript and artifact must be used for review. An identifying GitHub URL must not be placed in the FAccT submission. Authorship, conflicts, reviewing experience, and any final integrity declarations require truthful author information; the repository cannot establish those personal facts.
